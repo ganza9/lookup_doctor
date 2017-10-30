@@ -1,0 +1,21 @@
+{
+  "name": "doctor_lookup",
+  "description": "find a doctor api",
+  "main": "gulpfile.js",
+  "authors": [
+    "Gennaro Anzalone"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ganza9/doctor_lookup",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "materialize": "^0.100.2"
+  }
+}
