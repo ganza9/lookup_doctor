@@ -1,69 +1,39 @@
-## Initialize npm
-```
-npm init
- 
-```
+# _{Doctor Look Up}_
 
-## Npm packages
+#### _{Enter a illness or symptom and find a doctor.}, {2017}_
 
-```
-npm install gulp --save-dev
-npm install browserify --save-dev
-npm install vinyl-source-stream --save-dev
-npm install gulp-concat --save-dev
-npm install gulp-uglify --save-dev
-npm install gulp-util --save-dev
-npm install del --save-dev
-npm install gulp-jshint --save-dev
-npm install babelify babel-preset-es2015 --save-dev
- 
-```
-## Bower init
-```
-bower init
-```
+#### By _**{Gennaro Anzalone}**_
 
-## Bower packages
-```
-bower install jquery --save
-bower install materialize --save
-npm install bower-files --save-dev
-npm install browser-sync --save-dev
- ```
+## Description
 
-## Test Packages
+_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+
+## Setup/Installation Instructions:
+
+_{Clone GitHub repository and run following commands:}_
 
 ```
-npm install jasmine --save-dev
-./node_modules/.bin/jasmine init
-npm install watchify --save-dev
-npm install karma --save-dev
-npm install karma-jasmine jasmine-core --save-dev
-npm install karma-chrome-launcher --save-dev
-npm install karma-cli --save-dev
-npm install karma-browserify --save-dev
-npm install karma-jquery --save-dev
-npm install karma-jasmine-html-reporter --save-dev
-npm install -g karma-cli
-npm install karma karma-coverage --save-dev
-karma-coverage --save-dev
-npm i nyc --save-dev
-npm install browserify-istanbul
-```
-_Hit enter many times_
-```
-karma init
-```
-_Hit enter many times_
-
-_Copy gulpfile.js to project_
-
-_Copy karma.config file to project_ 
-
-_Set package.json "test" to "nyc karma start karma.conf.js istanbul"_
-
-```
+npm install
+bower install
 gulp build
- 
+gulp serve
+
 ```
 
+## Known Bugs
+
+_{There are currently no known bugs.}_
+
+## Support and contact details
+
+_{If there are any issues, comments, or concerns please contact me directly at g.anzalone12@gmail.com}_
+
+## Technologies Used
+
+_{This app is built with javascript, angular2, and materialize.}_
+
+### License
+
+*{This application is covered under the MIT license}*
+
+Copyright (c) 2016 **_{Gennaro Anzalone}_**
